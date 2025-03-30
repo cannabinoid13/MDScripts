@@ -3,6 +3,17 @@ MDScripts
 
 The MDScripts repository is a comprehensive collection of scripts developed for the analysis of molecular dynamics (MD) simulations. These scripts utilize the **MDAnalysis** library to extract data from trajectories and perform various analyses. The analyses include **RMSD** (Root-Mean-Square Deviation) and **RMSF** (Root-Mean-Square Fluctuation) calculations, as well as principal component analysis (PCA) and time-independent component analysis (TICA) combined with free energy surface extraction, UMAP, diffusion maps, and other dimension reduction techniques, along with dynamic cross-correlation matrix (DCCM) calculations and the construction of Markov state models (MSM). Additionally, the integration and visualization of MM/GBSA(Molecular Mechanics/Generalized Born Surface Area) binding energy results into the analysis is also possible. This repository enables comprehensive and flexible MD analysis by executing the scripts via the terminal. Each script is designed to automate a specific analysis and its visualization.
 
+Citations
+-----
+Please [cite us](https://scholar.google.com/citations?user=OvpMySIAAAAJ&hl=tr) if you use this software in your research:
+
+**Articles published in peer-reviewed journals using this software:** 
+
+Ortaakarsu, A. B., Boğa, Ö. B., & Kurbanoğlu, E. B. (2025). Cardaria draba subspecies Shalepensis exerts in vitro and in silico inhibition of α-glucosidase, TRP1, and DLD-1 proliferation. Scientific Reports, 15(1), 10402.[DOI](https://doi.org/10.1038/s41598-025-95538-1)
+
+Hari, A., Lahlali, R., Ortaakarsu, A. B., Taarji, N., Laasli, S. E., Karaaoui, K., ... & Echchgadda, G. (2024). Inhibitory effects of wild Origanum elongatum extracts on Fusarium oxysporum mycelium growth and spores germination: Evidence from in-vitro, in-planta, and in-silico experiments. Journal of Natural Pesticide Research, 10, 100096. [DOI](https://doi.org/10.1016/j.napere.2024.100096)
+
+
 Installation
 ------
 To use the MDScripts, you must first install the required **Python packages**. Ideally, in a Python 3 environment, install the following **dependencies** (for example, using the `pip install` command):
