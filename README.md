@@ -9,9 +9,9 @@ Please [cite us](https://scholar.google.com/citations?user=OvpMySIAAAAJ&hl=tr) i
 
 **Articles published in peer-reviewed journals using this software:** 
 
-Ortaakarsu, A. B., Boğa, Ö. B., & Kurbanoğlu, E. B. (2025). Cardaria draba subspecies Shalepensis exerts in vitro and in silico inhibition of α-glucosidase, TRP1, and DLD-1 proliferation. Scientific Reports, 15(1), 10402.[DOI](https://doi.org/10.1038/s41598-025-95538-1)
+Ortaakarsu, A. B., Boğa, Ö. B., & Kurbanoğlu, E. B. (2025). Cardaria draba subspecies Shalepensis exerts in vitro and in silico inhibition of α-glucosidase, TRP1, and DLD-1 proliferation. Scientific Reports, 15(1), 10402. [DOI link](https://doi.org/10.1038/s41598-025-95538-1)
 
-Hari, A., Lahlali, R., Ortaakarsu, A. B., Taarji, N., Laasli, S. E., Karaaoui, K., ... & Echchgadda, G. (2024). Inhibitory effects of wild Origanum elongatum extracts on Fusarium oxysporum mycelium growth and spores germination: Evidence from in-vitro, in-planta, and in-silico experiments. Journal of Natural Pesticide Research, 10, 100096. [DOI](https://doi.org/10.1016/j.napere.2024.100096)
+Hari, A., Lahlali, R., Ortaakarsu, A. B., Taarji, N., Laasli, S. E., Karaaoui, K., ... & Echchgadda, G. (2024). Inhibitory effects of wild Origanum elongatum extracts on Fusarium oxysporum mycelium growth and spores germination: Evidence from in-vitro, in-planta, and in-silico experiments. Journal of Natural Pesticide Research, 10, 100096. [DOI link](https://doi.org/10.1016/j.napere.2024.100096)
 
 
 Installation
