@@ -7,7 +7,7 @@ Citations
 -----
 Please [cite us](https://scholar.google.com/citations?user=OvpMySIAAAAJ&hl=tr) if you use this software in your research:
 
-**Articles published in peer-reviewed journals using this software:** 
+**Articles published in peer-reviewed journals that have used this software** 
 
 Ortaakarsu, A. B., Boğa, Ö. B., & Kurbanoğlu, E. B. (2025). Cardaria draba subspecies Shalepensis exerts in vitro and in silico inhibition of α-glucosidase, TRP1, and DLD-1 proliferation. Scientific Reports, 15(1), 10402. [DOI link](https://doi.org/10.1038/s41598-025-95538-1)
 
