@@ -7,11 +7,13 @@ Citations
 -----
 Please [cite us](https://scholar.google.com/citations?user=OvpMySIAAAAJ&hl=tr) if you use this software in your research:
 
-**Articles published in peer-reviewed journals that have used this software** 
+**Acceptance of this software in peer-reviewed journals** 
 
-Ortaakarsu, A. B., Boğa, Ö. B., & Kurbanoğlu, E. B. (2025). Cardaria draba subspecies Shalepensis exerts in vitro and in silico inhibition of α-glucosidase, TRP1, and DLD-1 proliferation. Scientific Reports, 15(1), 10402. [DOI link](https://doi.org/10.1038/s41598-025-95538-1)
+**Ortaakarsu, A. B.**, Boğa, Ö. B., & Kurbanoğlu, E. B. (2025). Cardaria draba subspecies Shalepensis exerts in vitro and in silico inhibition of α-glucosidase, TRP1, and DLD-1 proliferation. Scientific Reports, 15(1), 10402. [DOI link](https://doi.org/10.1038/s41598-025-95538-1)
 
-Hari, A., Lahlali, R., Ortaakarsu, A. B., Taarji, N., Laasli, S. E., Karaaoui, K., ... & Echchgadda, G. (2024). Inhibitory effects of wild Origanum elongatum extracts on Fusarium oxysporum mycelium growth and spores germination: Evidence from in-vitro, in-planta, and in-silico experiments. Journal of Natural Pesticide Research, 10, 100096. [DOI link](https://doi.org/10.1016/j.napere.2024.100096)
+**Medetalibeyoğlu, H.**, Atalay, A., Sağlamtaş, R., Manap, S., **Ortaakarsu, A. B.**, Ekinci, E., ... & Tüzün, B. (2025). Synthesis, design, and cholinesterase inhibitory activity of novel 1, 2, 4-triazole Schiff bases: A combined experimental and computational approach. International Journal of Biological Macromolecules, 306, 141350. [DOI link](https://doi.org/10.1016/j.ijbiomac.2025.141350)
+
+Hari, A., Lahlali, R., **Ortaakarsu, A. B.**, Taarji, N., Laasli, S. E., Karaaoui, K., ... & Echchgadda, G. (2024). Inhibitory effects of wild Origanum elongatum extracts on Fusarium oxysporum mycelium growth and spores germination: Evidence from in-vitro, in-planta, and in-silico experiments. Journal of Natural Pesticide Research, 10, 100096. [DOI link](https://doi.org/10.1016/j.napere.2024.100096)
 
 
 Installation
